@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Quang Ha</h1>
 <h3 align="center">A passionate frontend developer from Da Nang, Viet Nam</h3>
+<picture style="display: flex; flex-direction: column; justify-content: center; align-items: center;" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img align="right" alt="hacker" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nerqhard&label=Profile%20views&color=0e75b6&style=flat" alt="nerqhard" /> </p>
 
